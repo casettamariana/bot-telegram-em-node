@@ -1,0 +1,17 @@
+{
+  "name": "bot_telegram_embaixadoresdacidadania",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^7.15.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariana_casetta",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
